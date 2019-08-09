@@ -1,0 +1,28 @@
+{
+  "name": "recipt",
+  "version": "1.0.0",
+  "description": "shopping cart including tax",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doketawong/receipts-.git"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "pug": "^2.0.0-rc-4"
+  },
+  "keywords": [
+    "Shopping",
+    "Receipt"
+  ],
+  "author": "Jason Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doketawong/receipts-/issues"
+  },
+  "homepage": "https://github.com/doketawong/receipts-#readme"
+}
