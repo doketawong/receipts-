@@ -4,8 +4,7 @@
   "description": "shopping cart including tax",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -13,8 +12,10 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "mocha": "^6.2.0",
     "module": "^1.2.5",
-    "require": "^2.4.20"
+    "require": "^2.4.20",
+    "uniq": "^1.0.1"
   },
   "keywords": [
     "Shopping",
